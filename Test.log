@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.1)  4 DEC 2020 08:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.1)  4 DEC 2020 08:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -431,18 +431,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] (./Test.aux) ) 
 Here is how much of TeX's memory you used:
- 5774 strings out of 480608
- 111582 string characters out of 5907536
- 338704 words of memory out of 5000000
- 21452 multiletter control sequences out of 15000+600000
- 568174 words of font info for 85 fonts, out of 8000000 for 9000
+ 5814 strings out of 480608
+ 112089 string characters out of 5907536
+ 339704 words of memory out of 5000000
+ 21488 multiletter control sequences out of 15000+600000
+ 568714 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,6n,59p,501b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Test.pdf (1 page, 221026 bytes).
+<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><x:/Windows/Fonts/simsun.ttc><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on Test.pdf (1 page, 248040 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
+ 214 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
